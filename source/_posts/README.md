@@ -1,6 +1,9 @@
 ---
 title: hexo theme
 catagories: 工具
+tags:
+	- Hexo-Theme
+	- Next
 ---
 <h1 align="center">This repository is no longer maintained! :warning:</h1>
 <h2 align="center">The community-maintained version is here: <a href="https://github.com/theme-next/hexo-theme-next">NexT v6 and v7 :triangular_flag_on_post:</a></h2>

@@ -1,10 +1,10 @@
 ---
 title: hexo-theme-next
 data: 2019-04-29 12:30:00
-categories: 后端
+categories: 工具
 tags:
-	- hexo-theme
-	- hexo
+	- Hexo-Theme
+	- Next
 
 ---
 
